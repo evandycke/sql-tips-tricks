@@ -9,7 +9,7 @@ Some Tips and Tricks about SQL.
 ## Useful links
 
 * [SQLPro](https://sqlpro.developpez.com/) - A French bible on SQL
-* [SQLPro](https://www.developpez.net/forums/u3170/sqlpro/) - An useful forum on SQL
+* [SQLPro Forum](https://www.developpez.net/forums/u3170/sqlpro/) - An useful forum on SQL
 * [SqLines](http://www.sqlines.com/online) - Convert SQL from a RDBMS to another RDBMS (Oracle to SQL Server, SQL Server to PostgreSQL, ...)
 * [DBMS Tools](https://dbmstools.com/) - A fairly comprehensive list of tools around databases
 
