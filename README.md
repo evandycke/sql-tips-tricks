@@ -6,6 +6,10 @@ Quelques trucs et astuces sur SQL ...
 
 ![SQL](./images/sql-logo-256.png)
 
+### Optimisations
+
+* Quelques [tips](./doc/sql-tips-tricks.md) pour optimiser vos requêtes
+
 ### Liens utiles
 
 * [SQLPro](https://sqlpro.developpez.com/) - Une bible en français sur le SQL
